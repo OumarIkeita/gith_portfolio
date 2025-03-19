@@ -1,0 +1,32 @@
+.formElement{
+    display: block;
+    background-color: aquamarine;
+    padding: 20px;
+    margin:20px;
+
+}
+.loginContaint{
+    display: block;
+    justify-content: center;
+    margin:10px;
+    padding: 30px;
+    border: 2px solid black;
+    background-color: chocolate;
+}
+
+label{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size:small;
+    font-weight: 800;
+    color: black;
+}
+.Login_button{
+    display: block;
+    justify-content: center;
+    padding: 10px;
+}
+.Login_button button{
+    display: flex;
+    padding: 5px;
+    
+}
